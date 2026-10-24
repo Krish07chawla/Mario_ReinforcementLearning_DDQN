@@ -351,7 +351,7 @@ To run a quick test, set `episodes: 100` in `parameters.yaml`. The `nes-py` emul
 
 <div align="center">
 
-**Author:** *Your Name* &nbsp;|&nbsp; *your-email@example.com* &nbsp;|&nbsp; [GitHub](https://github.com/your-username)
+**Author:** *Krish Chawla* &nbsp;|&nbsp; *your-email@example.com* &nbsp;|&nbsp; [GitHub](https://github.com/your-username)
 
 If you found this project interesting, a ⭐ on the repo is appreciated.
 
